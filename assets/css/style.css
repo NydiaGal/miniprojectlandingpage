@@ -1,0 +1,33 @@
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+
+* {
+    font-family: "Script", "Lucida Grande", sans-serif;
+  }
+
+body {
+    background-color: rgb(165, 116, 182);
+  }
+
+.header {
+    color: white;
+    width: 100%;
+    background-color: rgb(122, 25, 137);
+  }
+
+    /* Class Selectors select all elements with that class */
+.content {
+    color: white;
+    background-color: rgb(114, 41, 89);
+  }
+
+  /* Fixed positioning */
+#fixed-box {
+    position: fixed;
+    bottom: 100;
+    right: 0;
+  }
+  
